@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## เริ่มต้นด้วย
  npm install
 
+##และรัน  project
 
 ### `npm start`
 In the project directory, you can run:
