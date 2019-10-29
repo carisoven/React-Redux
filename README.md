@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## เริ่มต้นด้วย
  npm install
  
-### `npm install react-redux`
+npm install react-redux
 
 ## และรัน  project
 
